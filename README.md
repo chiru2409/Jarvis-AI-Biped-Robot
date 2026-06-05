@@ -2,6 +2,15 @@
 
 An ESP32-S3 powered AI biped robot featuring voice conversations, long-term memory, web search, MCP tools, real-time news retrieval, and an intelligent companion personality.
 
+
+## 📸 Project Preview
+
+Photos and demonstration videos will be added soon.
+
+## 🎯 Project Goal
+
+Jarvis is an ESP32-S3 powered autonomous biped robot designed to combine robotics, artificial intelligence, voice interaction, memory, and real-time information retrieval into a single companion platform.
+
 ---
 
 ## 🚀 Features
