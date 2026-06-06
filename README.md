@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="media/Robot_front.jpeg" width="350">
+</p>
 # 🤖 Jarvis AI Biped Robot
 
 An ESP32-S3 powered AI biped robot featuring voice conversations, long-term memory, web search, MCP tools, real-time information retrieval, and an intelligent companion personality.
