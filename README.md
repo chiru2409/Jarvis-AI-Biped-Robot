@@ -6,8 +6,6 @@ An ESP32-S3 powered AI biped robot featuring voice conversations, long-term memo
 
 ## 📸 Project Gallery
 
-## 📸 Project Gallery
-
 <table>
 <tr>
 <td align="center">
