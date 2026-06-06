@@ -57,6 +57,20 @@ Unlike traditional hobby robots, Jarvis can hold conversations, remember informa
 
 ---
 
+## 🧠 Current Capabilities
+
+- Voice Conversations
+- Long-Term Memory
+- Web Search
+- AI News Retrieval
+- Robotics News Retrieval
+- Weather Information
+- Biped Walking
+- OLED Expressions
+- Real-Time AI Assistant
+
+  ---
+
 ## 🔧 Hardware
 
 - ESP32-S3 N16R8
