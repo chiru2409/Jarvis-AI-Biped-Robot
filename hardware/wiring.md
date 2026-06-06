@@ -37,4 +37,6 @@ RIGHT FOOT -> GPIO 38
 LEFT LEG -> GPIO 17
 LEFT FOOT -> GPIO 18
 
+![wiring diagram](schem_mini2.png)
+
 ...
